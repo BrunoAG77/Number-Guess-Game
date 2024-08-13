@@ -1,0 +1,41 @@
+body{
+  background-color: black;
+}
+
+h1{
+  color: #ff0066;
+}
+
+img{
+  width: 25px;
+  padding: 5px;
+  align-items: center;
+}
+
+h3{
+  color: #ff0066;
+}
+
+input{
+  background-color: black;
+  color: #ff0066;
+  border-color: #ff0066;
+}
+
+button{
+  background-color: #ff0066;
+  color: black;
+  border-color: black;
+  border: 6px solid;
+  border-radius: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  font-family: arial sans-serif;
+
+}
+
+html {
+  height: 100%;
+  width: 100%;
+}
